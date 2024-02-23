@@ -5,7 +5,7 @@
     </a>
   </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyf2002&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyf2002/xyf2002/output/github-contribution-grid-snake-dark.svg">
