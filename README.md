@@ -1,4 +1,11 @@
 ### Hi there 👋
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyf2002/xyf2002/output/github-contribution-grid-snake-dark.svg">
