@@ -12,6 +12,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyf2002/xyf2002/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xyf2002/xyf2002/output/github-contribution-grid-snake.svg">
 </picture>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=xyf2002&theme=radical&langs_count=12&layout=donut-vertical&hide=tex,html,css,makefile,cmake,jupyter%20notebook) |
 <!--
 **xyf2002/xyf2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
