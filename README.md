@@ -15,4 +15,4 @@ Previously, I undertook summer research with **[Antonio Barbalace](https://www.b
 - Network Digital Twin
 - Compiler Optimization
 
-I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **yufeng.xia [at] ed.ac.uk**.
+I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **yufeng.xia@ed.ac.uk**.
